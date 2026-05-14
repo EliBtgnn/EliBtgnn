@@ -12,7 +12,7 @@
 *   **Current Goal:** Exploring advanced microcontroller features (Interrupts, Timers, State Machines).
 
 ### 🚀 Projects in Progress
-*   **[Smart Barrier System](link1):** An automated gate system using ultrasonic sensors and non-blocking C++ logic (`millis()`).
+*   **Arduino Nano OLED Oscilloscope:** An automated oscilloscope based in arduino nano.
 *   *More coming soon as I experiment with new sensors and communication protocols!*
 
 ### 📬 Connect with me
