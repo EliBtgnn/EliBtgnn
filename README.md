@@ -11,7 +11,7 @@
 *   **Core Interests:** Microelectronics, Digital Systems, and Circuit Design.
 *   **Current Goal:** Exploring advanced microcontroller features (Interrupts, Timers, State Machines).
 
-### ⏲ Projects in Progress
+### ♜ Projects in Progress
 *   **Arduino Nano OLED Oscilloscope:** An automated oscilloscope based in arduino nano.
 *   *More coming soon as I experiment with new sensors and communication protocols!*
 
