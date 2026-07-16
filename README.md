@@ -1,4 +1,4 @@
-# Hi there, I'm Elisavet! 👋
+# Hi there, I'm Elisavet! 
 
 ### ᯓ ✈︎ Education
 *   **Electrical and Computer Engineering (ECE)** student at the **National Technical University of Athens (NTUA)**.
@@ -11,9 +11,13 @@
 *   **Core Interests:** Microelectronics, Digital Systems, and Circuit Design.
 *   **Current Goal:** Exploring advanced microcontroller features (Interrupts, Timers, State Machines).
 
-### ♜ Projects in Progress
+### ♜ Projects
+*   **AM Reciever:** A radio-like AM reciever as part of 4th semester university projects.
+*   **Cadence circuits:** Basic circuit simulations in Cadence environment.
+*   **Automated masurements on Keysight instruments with Python:** Various projects in generator and oscilloscope communication through Python scripts.
+*   **Travelling Website:** In construction personal blog based on HTML and CSS. 
 *   **Arduino Nano OLED Oscilloscope:** An automated oscilloscope based in arduino nano.
 *   *More coming soon as I experiment with new sensors and communication protocols!*
 
 ### ≫ Connect with me
-*   my email address is elisavetbatagianni@gmail.com.
+*   email address: elisavetbatagianni@gmail.com.
