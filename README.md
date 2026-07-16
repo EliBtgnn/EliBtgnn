@@ -5,7 +5,7 @@
 *   Currently in my **4th semester**, focusing on electronics and embedded logic.
 *   grade of **8.5**
 
-### 🛠 Technical Interests & Skills
+### ☆ Technical Interests & Skills
 *   **Microcontrollers:** Passionate about **Arduino** development and hardware-software interfacing.
 *   **Programming:** Core coding in **C++** and **C** for embedded systems. Experimented with **HTML** for website creation and **python** for simple projects. 
 *   **Core Interests:** Microelectronics, Digital Systems, and Circuit Design.
